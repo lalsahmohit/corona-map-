@@ -1,5 +1,6 @@
 # corona-map
 This project is created with node.js along with html.
+To display the number of cases we should download data for cornovirus cases.
 This project need to be run on visual code
 we have used mapbox and we have pasted the token
 if u downloading this source code then first google mapbox and register there and replace the token number in index.js file section
